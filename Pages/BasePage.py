@@ -44,6 +44,8 @@ class BasePage:
             print("找到%s个元素:%s" % (len(element), locator))
             return False
 
+    a =3
+
 
 
 
